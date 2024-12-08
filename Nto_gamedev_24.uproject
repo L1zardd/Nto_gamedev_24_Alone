@@ -35,5 +35,12 @@
 			"Name": "SerializationUtils",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"Mac",
+		"TVOS",
+		"Linux",
+		"LinuxArm64"
 	]
 }
